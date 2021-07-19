@@ -3,10 +3,11 @@
 :rotating_light: If you are not a _portuguese_ speaker, you can find the _english_ version of this document [here](#english-version---trybe). 
 Este repositório contêm todas as atividades de aprendizagem que estão sendo desenvolvidas por [Alex Maia](https://www.linkedin.com/in/alex-maia-a3043019b/) enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket: (2021-2022).
 
+![1626217061418](https://user-images.githubusercontent.com/87548769/126114571-3f2ca270-294a-4a98-9d7f-d4e0dd43d473.jpeg)
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## [Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:](01-fundamentos/)
 
 
 ### Bloco 1: Introdução - Unix & Shell ✔️
