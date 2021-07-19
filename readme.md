@@ -433,7 +433,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
  # English version - Trybe
 
- This repository contains all activities that are being developed by  _[Maria Fernanda Michetti](https://www.linkedin.com/in/mariafernandamichetti/)_  while studying at  [Trybe](https://www.betrybe.com/)  🚀 (2020 - 2021).
+ This repository contains all activities that are being developed by  _[Alex Maia](https://www.linkedin.com/in/alex-maia-a3043019b/)_  while studying at  [Trybe](https://www.betrybe.com/)  🚀 (2020 - 2021).
 
 The web development training program from Trybe has a workload of  **1500 hours**  that covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 
