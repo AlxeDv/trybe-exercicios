@@ -9,7 +9,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
 
-### Bloco 1: Introdução - Unix & Shell
+### Bloco 1: Introdução - Unix & Shell ✔️
 
 :ballot_box_with_check: 1-3: _Unix & Shell- Part 1_
 
@@ -442,7 +442,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 ## Web development fundamentals :hourglass_flowing_sand:
 
 
-### Part 1: Introduction - Unix & Shell
+### Part 1: Introduction - Unix & Shell ✔️
 
 :ballot_box_with_check: 1-3: _Unix & Shell- Part 1_
 
