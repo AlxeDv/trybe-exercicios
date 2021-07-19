@@ -2,7 +2,7 @@
  
 :rotating_light: If you are not a _portuguese_ speaker, you can find the _english_ version of this document [here](#english-version---trybe). 
 
-Este repositório contêm todas as atividades de aprendizagem que estão sendo desenvolvidas por  [Maria Fernanda Michetti](https://github.com/AlxeDv//) enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket: (2021-2022).
+Este repositório contêm todas as atividades de aprendizagem que estão sendo desenvolvidas por [Alex Maia](https://www.linkedin.com/in/alex-maia-a3043019b/) enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket: (2021-2022).
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
