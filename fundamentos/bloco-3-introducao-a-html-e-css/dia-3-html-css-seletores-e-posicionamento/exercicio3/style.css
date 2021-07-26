@@ -4,6 +4,8 @@ p, h1{
 li:hover{
     background-color: aquamarine;
 }
-li:active{
+div:active{
     font-family: sans-serif;
+    list-style: none;
 }
+  
