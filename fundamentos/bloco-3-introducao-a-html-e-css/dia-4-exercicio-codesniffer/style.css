@@ -1,0 +1,27 @@
+body {
+    font-size: 15px;
+}
+.header {
+    font-family: sans-serif;
+    font-size: 90%;
+}
+.nav-links li {
+    display: inline;
+    margin: 10px;
+    border-style: groove;
+    border-radius: 30px;
+    padding: 4px;
+}
+h2 {
+    text-align: center;
+
+}
+.Initial-Page {
+    text-decoration: none;
+}
+.about {
+    text-decoration: none;
+}
+.Contact {
+    text-decoration: none;
+}
