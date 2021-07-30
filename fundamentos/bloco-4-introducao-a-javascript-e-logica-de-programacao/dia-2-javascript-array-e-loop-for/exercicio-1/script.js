@@ -49,4 +49,26 @@ for (contador = 0; contador < numbers.length; contador+=1){
 console.log("A quantidade de numeros Impares é:", numeroImpar)*/
 
 //exercicio 7
+/*let numeroMenor = numbers[0];
+for (let contador = 0; contador < numbers.length; contador+=1){
+    if (numeroMenor > numbers[contador]){
+        numeroMenor = numbers[contador]
+    }
+}
+console.log("O menor numero é:", numeroMenor)*/
+
+//exercicio 8
+/*let meusNumeros = [];
+for (let contador = 1; contador < 26; contador+=1){
+    meusNumeros.push(contador)
+}
+console.log(meusNumeros)*/
+
+//exercicio 9
+let meusNumeros = [];
+let contador;
+for (contador = 0; contador < 26; contador+=1){
+    meusNumeros.push(contador/2);
+    console.log(meusNumeros); 
+}
 
