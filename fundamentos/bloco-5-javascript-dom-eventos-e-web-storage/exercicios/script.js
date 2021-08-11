@@ -9,3 +9,8 @@ document.body.appendChild(main);
 let section = document.createElement("section");
 section.className = "center-content";
 document.querySelector(".main-content").appendChild(section)
+
+let parag = document.createElement("p");
+parag.innerText = "Teste de parágrafo.";
+document.querySelector(".center-content").appendChild(parag)
+
