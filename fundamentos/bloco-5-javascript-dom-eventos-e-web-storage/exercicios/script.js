@@ -48,4 +48,9 @@ for(let index = 0; index < listItem.length; index += 1){
     itensLista.innerText = itens;
     lista.appendChild(itensLista)
 }
-
+let titles3 = [];
+for(let index = 1; index < 4; index += 1){
+    let h3 = document.createElement("h3")
+    h3.innerText = index + "texto"
+    document.querySelector(".main-content").appendChild(h3);
+}
