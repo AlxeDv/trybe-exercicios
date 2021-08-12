@@ -1,6 +1,7 @@
 let h1 = document.createElement("h1");
 h1.innerText = "Exercicio 5.2 - JavaScript DOM";
 document.body.append(h1);
+h1.className = "title";
 
 let main = document.createElement("main");
 main.className = "main-content"
@@ -42,15 +43,20 @@ let listItem = [
 let lista = document.createElement("ul");
 document.querySelector(".right-content").appendChild(lista);
 for(let index = 0; index < listItem.length; index += 1){
-    let itens = listItem[index]
+    let itens = listItem[index];
 
-    let itensLista = document.createElement("li")
+    let itensLista = document.createElement("li");
     itensLista.innerText = itens;
-    lista.appendChild(itensLista)
+    lista.appendChild(itensLista);
 }
 let titles3 = [];
 for(let index = 1; index < 4; index += 1){
-    let h3 = document.createElement("h3")
-    h3.innerText = index + "texto"
+    let h3 = document.createElement("h3");
+    h3.className = "description";
+    h3.innerText = index + "texto";
     document.querySelector(".main-content").appendChild(h3);
 }
+
+document.querySelector("main").removeChild(leftSection);
+
+rightSection.style.marginRight = "auto";
