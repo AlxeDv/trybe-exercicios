@@ -47,6 +47,7 @@ for(let index = 0; index < listItem.length; index += 1){
 
     let itensLista = document.createElement("li");
     itensLista.innerText = itens;
+    itensLista.className = "numero-ext"
     lista.appendChild(itensLista);
 }
 let titles3 = [];
@@ -60,3 +61,5 @@ for(let index = 1; index < 4; index += 1){
 document.querySelector("main").removeChild(leftSection);
 
 rightSection.style.marginRight = "auto";
+
+main.style.backgroundColor = "purple";
