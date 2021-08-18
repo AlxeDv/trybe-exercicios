@@ -46,32 +46,32 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :ballot_box_with_check: 4-2: _JavaScript - Array e loop For_
 
-ballot_box_with_check: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+:ballot_box_with_check: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 
-ballot_box_with_check: 4-4: _JavaScript - Objetos e funções_
+:ballot_box_with_check: 4-4: _JavaScript - Objetos e funções_
 
-ballot_box_with_check: 4-5: _Projeto - Playground Functions_
+:ballot_box_with_check: 4-5: _Projeto - Playground Functions_
 
   
 ### Bloco 5: Javascript: DOM, Eventos e Web Storage
 
-ballot_box_with_check: 5-1: _JavaScript - DOM e seletores_
+:ballot_box_with_check: 5-1: _JavaScript - DOM e seletores_
 
-ballot_box_with_check: 5-2: _JavaScript - Trabalhando com elementos_
+:ballot_box_with_check: 5-2: _JavaScript - Trabalhando com elementos_
 
-ballot_box_with_check: 5-3: _JavaScript - Eventos_
+:ballot_box_with_check: 5-3: _JavaScript - Eventos_
 
-ballot_box_with_check:  5-4: _JavaScript - Web Storage_
+:ballot_box_with_check:  5-4: _JavaScript - Web Storage_
 
-ballot_box_with_check: 5.5: _Projeto: Arte com Pixels_
+:ballot_box_with_check: 5.5: _Projeto: Arte com Pixels_
 
-ballot_box_with_check: 5-6: _Projeto - Lista de tarefas_
+:ballot_box_with_check: 5-6: _Projeto - Lista de tarefas_
 
-ballot_box_with_check: 5-7: _Projeto Bônus - Meme Generator_
+:ballot_box_with_check: 5-7: _Projeto Bônus - Meme Generator_
 
-ballot_box_with_check: 5-7: _Projeto Bônus - Adivinhe a cor_
+:ballot_box_with_check: 5-7: _Projeto Bônus - Adivinhe a cor_
 
-ballot_box_with_check: 5-7: _Projeto Bônus - Carta Misteriosa_
+:ballot_box_with_check: 5-7: _Projeto Bônus - Carta Misteriosa_
 
 
 ### Bloco 6: HTML & CSS avançado
@@ -475,32 +475,32 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 4-2: _JavaScript - Array e loop For_
 
-ballot_box_with_check: 4-3: _JavaScript - Programming Logic and Algorithms_
+:ballot_box_with_check: 4-3: _JavaScript - Programming Logic and Algorithms_
 
-ballot_box_with_check: 4-4: _JavaScript - Objects and functions_
+:ballot_box_with_check: 4-4: _JavaScript - Objects and functions_
 
-ballot_box_with_check: 4-5: _Project - Playground Functions_
+:ballot_box_with_check: 4-5: _Project - Playground Functions_
 
 
 ### Part 5: Javascript: DOM, Events e Web Storage
 
-ballot_box_with_check: 5-1: _JavaScript - DOM and selectors_
+:ballot_box_with_check: 5-1: _JavaScript - DOM and selectors_
 
-ballot_box_with_check: 5-2: _JavaScript - Working with elements_
+:ballot_box_with_check: 5-2: _JavaScript - Working with elements_
 
-ballot_box_with_check: 5-3: _JavaScript - Events_
+:ballot_box_with_check: 5-3: _JavaScript - Events_
 
-ballot_box_with_check:  5-4: _JavaScript - Web Storage_
+:ballot_box_with_check:  5-4: _JavaScript - Web Storage_
 
-ballot_box_with_check: 5.5: _Project: Art with Pixels_
+:ballot_box_with_check: 5.5: _Project: Art with Pixels_
 
-ballot_box_with_check: 5-6: _Project - To Do List_
+:ballot_box_with_check: 5-6: _Project - To Do List_
 
-ballot_box_with_check: 5-7: _Bonus Project - Meme Generator_
+:ballot_box_with_check: 5-7: _Bonus Project - Meme Generator_
 
-ballot_box_with_check: 5-7: _Bonus Project - Guess the Colour_
+:ballot_box_with_check: 5-7: _Bonus Project - Guess the Colour_
 
-ballot_box_with_check: 5-7: _Bonus Project - Mysterious Card_
+:ballot_box_with_check: 5-7: _Bonus Project - Mysterious Card_
 
 
 ### Part 6: HTML & CSS avançado
