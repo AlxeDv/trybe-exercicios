@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <fieldset>
+    <label for="input-text">Nome:
+      <input type="text" name="nome" id="input-text" required maxlength="40">
+    </label>
+    <br>
+    <label for="input-email">E-mail:
+      <input type="email" name="email" id="input-email" required maxlength="50">
+    </label>
+    <br>
+    <label for="input-cpf">CPF:
+      <input type="text" name="cpf" id="input-cpf" required maxlength="11">
+    </label>
+    <br>
+    <label for="input-adress">Endereço:
+      <input type="text" name="endereco" id="input-adress" required maxlength="200">
+    </label>
+    <br>
+    <label for="input-city">Cidade:
+      <input type="text" name="cidade" id="input-city" required maxlength="28">
+    </label>
+    <br>
+    <label for="input-select">Estado:</label>
+    <select name="" id="input-select" required>
+    </select>
+    <br>
+    <label for="">Tipo
+      <input type="radio" name="residencia" id="tipo-1" value="Casa">Casa
+      <input type="radio" name="residencia" id="tipo-2" value="Apartamento">Apartamento
+    </label>
+  </fieldset>
+  <fieldset>
+    <label for="textarea-curriculo">Resumo do currículo
+      <br>
+      <textarea name="resumo" id="textarea-curriculo" cols="50" rows="5" maxlength="1000" required></textarea>
+      <br>
+      <label for="input-cargo">Cargo:
+        <input type="text" id="input-cargo" required maxlength="40">
+      </label>
+    </label>
+  </fieldset>
+  <script src="script.js"></script>
+</body>
+</html>
